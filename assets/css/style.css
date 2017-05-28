@@ -15,10 +15,15 @@ body {
 }
 
 h1 {
-	color: #428bca;
+	color: white;
 }
 
 header {
 	color: green;
 }
 
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: lightgreen;
+    }
+}
