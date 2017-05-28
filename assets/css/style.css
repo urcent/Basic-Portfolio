@@ -22,8 +22,8 @@ header {
 	color: green;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 500px) {
     body {
-        background-color: lightgreen;
+        background-color: lightblue;
     }
 }
